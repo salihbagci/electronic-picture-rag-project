@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+sentencepiece
+faiss-cpu
+pillow>=10,<12
+tqdm
+gradio
+kaggle

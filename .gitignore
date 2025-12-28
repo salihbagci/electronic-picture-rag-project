@@ -1,0 +1,15 @@
+# Büyük veriler
+data/
+index/
+runs/
+
+# Python
+__pycache__/
+*.pyc
+
+# Notebook çöpleri
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
